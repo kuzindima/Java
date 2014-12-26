@@ -1,0 +1,73 @@
+13.12.14
+Класс object
+Student to git
+
+16.12.14
+без biginteger
+c генератором случайных чисел
+x=(n*m)/c
+где n и m числа больше long
+10 баллов
+Privedenie.java
+Cat,Dog,Aminal,Horse
+
+Модификаторы доступа
+priavte
+public
+protected
+
+теперь final,static,super,this,synchronized,abstract
+
+super() вызывает конструктор родительского класса
+прим.
+public Cat extends Animal{
+public Cat(){
+super(4);
+}
+
+this - ссылка на самого себя
+class Cat{
+String soundText="";
+}
+void sound(){
+this.soundText
+}
+}
+
+final
+если обьявить класс final то от него нельзя наследоваться больше
+
+static статичные методы не относятся к методам только к классу
+static это общее решение для всех
+
+узнать для чего abstract
+
+в субб зачет
+
+Работа с файлами
+File
+InputStream
+OutputStream
+
+Exceptions---
+
+
+ДЗ переодчик с файлами
+
+2 файла сос словами --
+пример
+23. Привет------23.Hello
+
+дз другое
+
+есть две матрицы
+
+123
+456
+*
+56
+78
+910
+
+два файла
+вывод в третий
